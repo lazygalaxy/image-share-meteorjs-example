@@ -11,3 +11,7 @@ body {
 .thumbnail-img {
     max-height: 300px;
 }
+
+.single-img {
+    max-width: : 100%;
+}
